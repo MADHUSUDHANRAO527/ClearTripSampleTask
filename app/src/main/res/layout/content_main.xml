@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="bottom"
+    android:layout_marginTop="200dp"
+    android:orientation="vertical"
+    app:layout_anchor="@+id/viewpager"
+    app:layout_anchorGravity="bottom"
+    app:layout_behavior=".RVLayoutBehavior"
+    tools:showIn="@layout/activity_main">
+
+    <android.support.design.widget.TabLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/categories"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

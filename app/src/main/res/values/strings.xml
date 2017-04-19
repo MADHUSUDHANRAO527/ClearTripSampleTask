@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ClearTripTask</string>
+    <string name="action_settings">Settings</string>
+    <string name="travel">Travel</string>
+    <string name="local">Local</string>
+    <string name="activities">Activities</string>
+    <string name="eat_out">Eat Out</string>
+    <string name="events">Events</string>
+    <string name="you">You</string>
+
+    <string name="server_not_reachable">Server not reachable</string>
+    <string name="certificate_unavailable">Certificate Exception : You may have to install the certificate.</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="service_unavailable">Please wait, service is currently unavailable</string>
+    <string name="unimplemented">The request is not implemented by the server.</string>
+    <string name="internal_server_error">Internal Server Error. Please retry.</string>
+    <string name="bad_request">Invalid Syntax.</string>
+    <string name="no_resource">Resource not found.</string>
+    <string name="json_error">JSON parsing error</string>
+    <string name="wallets">Wallets</string>
+    <string name="expressway">Expressway</string>
+    <string name="referrals">Referrals</string>
+    <string name="account">Account</string>
+    <string name="sign_in_to_access_them">Sign in to access them</string>
+    <string name="your_trips_and_bookings_reside_here">Your trips and bookings reside here</string>
+    <string name="bookings">Bookings</string>
+    <string name="sign_in_or_register">SIGN IN OR REGISTER</string>
+    <string name="manage_trips_make_changes_save_cards_and_faster_refunds">Manage trips,make changes,save cards and faster refunds</string>
+    <string name="do_more_with_accounts">Do more with accounts</string>
+    <string name="good_morning">Good Morning</string>
+</resources>
